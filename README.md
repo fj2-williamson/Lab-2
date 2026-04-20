@@ -1,2 +1,6 @@
 # Lab-2 Part-2
-Includes all pseudocode, picture and video evidence of outputs and the code produced.
+Evidence includes: Working sections of code, 
+Picture evidence of the NUCLEO Board and accompanying circuit, 
+Video evidence of components and flashing LEDs on the NUCLEO board, 
+Flow charts and pseudocode, 
+Video evidence of interactions and input-output responces.
